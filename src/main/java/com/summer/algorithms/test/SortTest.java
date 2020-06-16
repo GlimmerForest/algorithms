@@ -18,6 +18,7 @@ public class SortTest {
 //        countSortTest();
 //        bucketSortTest();
         radixSortTest();
+        System.out.println("test");
     }
 
     private static void bubblingSortTest() {
